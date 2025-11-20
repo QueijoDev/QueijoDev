@@ -29,9 +29,8 @@
 
 <div align="center">
   <h3>📊 Minhas Estatísticas</h3>
-  <div style="display: flex; justify-content: center; gap: 10px;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QueijoDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueijoDev&layout=compact&theme=dracula"/>
   </div>
 </div>
