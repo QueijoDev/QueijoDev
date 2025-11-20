@@ -29,11 +29,11 @@
 
 <div align="center">
   <h3>📊 Minhas Estatísticas</h3>
-  <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Besk4r&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QueijoDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Besk4r&layout=compact&theme=dracula"/>
-  </p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueijoDev&layout=compact&theme=dracula"/>
+  </div>
 </div>
 
 <br>
@@ -44,7 +44,7 @@
   | 🌲 LinkTree Clone | 🔐 Gerador de Senhas |
   | :---: | :---: |
   | Agregador de links com Dark Mode e animações. | Ferramenta de segurança com lógica JS e copy-paste. |
-  | [Ver Projeto](https://besk4r.github.io/minha-bio-links/) | [Ver Projeto](https://besk4r.github.io/gerador-de-senhas/) |
+  | [Ver Projeto](https://queijodev.github.io/minha-bio-links/) | [Ver Projeto](https://queijodev.github.io/gerador-de-senhas/) |
 
 </div>
 
